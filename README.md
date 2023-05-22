@@ -3,7 +3,7 @@
 
 Course Name: Intro to Computer Science (jr. high enrichment class)
 
-	This class will serve as an introduction to computer science so the students will be able to learn basic concepts and decide if this is a subject they will want to pursue in the future. The course starts with instruction on the basic components of computers and the value of computer science before getting into simple coding using Scratch and Python.
+This class will serve as an introduction to computer science so the students will be able to learn basic concepts and decide if this is a subject they will want to pursue in the future. The course starts with instruction on the basic components of computers and the value of computer science before getting into simple coding using Scratch and Python.
 
 
 ## Plan
@@ -12,9 +12,9 @@ Course Name: Intro to Computer Science (jr. high enrichment class)
 
 Students will be able to analyze the products of computer science to describe the positive and negative effects of the technologies. 
 
-	Students will be able to critique the products of computer science to understand ways in which they might be discriminatory based on race, gender, nationality.
+Students will be able to critique the products of computer science to understand ways in which they might be discriminatory based on race, gender, nationality.
 
-	Students will be able to describe how society has shaped computer science by providing examples.
+Students will be able to describe how society has shaped computer science by providing examples.
 
 ### Learning Activities
 
